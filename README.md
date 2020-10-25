@@ -1,15 +1,15 @@
 ## Projekt 1: 16,75/18 bodů</br>
  ### Poznámky:</br>
-    Black box tests:</br>
-      Je třeba použít assert, pro kontrolu ukazatele, jinak může docházet k segfault.</br>
-    White Box Testing:</br>
-      Nedostatečné otestování solveEquation.</br>
-    Test Driven Development: </br>
-      ok</br>
+   Black box tests:
+     Je třeba použít assert, pro kontrolu ukazatele, jinak může docházet k segfault.
+   White Box Testing:
+     Nedostatečné otestování solveEquation.
+   Test Driven Development:
+     ok
  ### Detail k bodům:</br>
-    Black Box Testing: 5.75</br>
-    W hite Box Testing: 5</br>
-    Test Driven Development: 6</br>
+   Black Box Testing: 5.75
+   W hite Box Testing: 5
+   Test Driven Development: 6
  ### Orientační výsledky z automatického ohodnocení:</br>
    black box operations: 83%</br>
    black box axioms: 100%</br>
