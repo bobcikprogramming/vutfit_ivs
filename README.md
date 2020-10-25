@@ -11,11 +11,11 @@
     W hite Box Testing: 5
     Test Driven Development: 6
  ### Orientační výsledky z automatického ohodnocení:</br>
-    black box operations: 83%</br>
-    black box axioms: 100%</br>
-    white box coverage: 100%</br>
-    white box matrix sizes: 50%</br>
-    tdd empty queue: 100%</br>
-    tdd non empty queue + implementation: 100%</br>
-    tdd validity: 100%</br>
+    black box operations: 83%
+    black box axioms: 100%
+    white box coverage: 100%
+    white box matrix sizes: 50%
+    tdd empty queue: 100%
+    tdd non empty queue + implementation: 100%
+    tdd validity: 100%
 ## Projekt 2: 48/52 bodů</br>
